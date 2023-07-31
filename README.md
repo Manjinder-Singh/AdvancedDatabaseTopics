@@ -22,6 +22,7 @@ https://colab.research.google.com/drive/1ZyDiI9LmBmCtsk8j2RcuFYNMgYcl-ZJT?usp=sh
 
 Published Dashboard in Tableau
 https://public.tableau.com/app/profile/harbhajan.singh/viz/Rational-ADT-SalesProductOverview/RetailDataAnalysisOverview?publish=yes
+
 https://public.tableau.com/app/profile/harbhajan.singh/viz/Rational-ADT-SalesProfitSalesForecast/RetailDataAnalysisProfit-Loss-ForecastingSales?publish=yes
  
 GitHub:
